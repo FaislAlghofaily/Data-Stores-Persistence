@@ -17,6 +17,7 @@ hibernate,
 CrudRepository,
 @ManytoMany @ManyToOne @OneToMany @OneToOne,
 @Transactional,
+Query,
 DTO,
 Postman
 
